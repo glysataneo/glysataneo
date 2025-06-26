@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  display: inline;
+}
+
+p {
+  color: blue;
+  display: inline;
+}
+
+.flex {
+  display: flex;
+  background-color: green;
+}
+
+#container2 {
+  background-color: yellow;
+}
+
+div {
+  background-color: pink;
+}
